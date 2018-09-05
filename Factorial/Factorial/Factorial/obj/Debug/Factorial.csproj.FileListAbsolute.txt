@@ -1,0 +1,13 @@
+c:\users\suraj\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.exe.config
+c:\users\suraj\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.exe
+c:\users\suraj\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.pdb
+c:\users\suraj\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.exe
+c:\users\suraj\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.pdb
+c:\users\suraj\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.exe.manifest
+c:\users\suraj\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.application
+c:\users\suraj\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.exe.manifest
+c:\users\suraj\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.application
+c:\users\suraj\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Suraj\Desktop\New folder (2)\Factorial\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Suraj\Desktop\New folder (2)\Factorial\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Users\Suraj\Desktop\New folder (2)\Factorial\Factorial\Factorial\obj\Debug\Factorial.pdb
